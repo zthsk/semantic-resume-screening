@@ -1,0 +1,82 @@
+{
+  "filename": "jamie_rodriguez_011.md",
+  "parsed_at": "2025-08-10T04:07:25.304950Z",
+  "data": {
+    "name": "Jamie Rodriguez",
+    "title": "Full Stack Developer",
+    "email": "jamierodriguez@yahoo.com",
+    "phone": "(767) 956-1672",
+    "location": "Atlanta, GA",
+    "education": [
+      {
+        "institution": "Institute of Technology of",
+        "degree": "Bachelor of Engineering",
+        "field_of_study": "Data Science",
+        "year": 2019,
+        "gpa": 3.32,
+        "location": "Atlanta, GA"
+      },
+      {
+        "institution": "State University of East",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Electrical Engineering",
+        "year": 2018,
+        "gpa": 3.99,
+        "location": "Atlanta, GA"
+      }
+    ],
+    "experience": [
+      {
+        "company": "QuantumNest",
+        "title": "Machine Learning Engineer",
+        "start": "Jan 2017",
+        "end": "Present",
+        "location": "Atlanta, GA",
+        "highlights": [
+          "Migrated legacy VM cluster to Azure with zero downtime",
+          "Built a CI/CD system using Python improving CPU usage by 15%",
+          "Migrated legacy VM cluster to Azure with zero downtime",
+          "Designed and implemented ingestion pipeline with AWS"
+        ]
+      },
+      {
+        "company": "QuantumNest",
+        "title": "Software Engineer",
+        "start": "Sep 2021",
+        "end": "May 2023",
+        "location": "Austin, NY",
+        "highlights": [
+          "Designed and implemented auth gateway with Go",
+          "Migrated legacy monolith to GCP with zero downtime",
+          "Reduced MTTR by 25% via asynchronous processing"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "TypeScript",
+        "Go",
+        "Java"
+      ],
+      "Web": [
+        "Express",
+        "Django",
+        "Flask",
+        "React"
+      ],
+      "Data": [
+        "TensorFlow",
+        "NumPy",
+        "scikit-learn"
+      ],
+      "Cloud/DevOps": [
+        "Terraform",
+        "Docker",
+        "Azure"
+      ]
+    }
+  },
+  "summary": "Jamie Rodriguez is a highly skilled Full Stack Developer with a strong educational background in Data Science and Electrical Engineering. He holds a Bachelor of Engineering degree from the Institute of Technology and a Bachelor of Science degree from State University of East, both with high GPAs. With over 5 years of experience, Jamie has worked as a Machine Learning Engineer and Software Engineer at QuantumNest, where he has demonstrated expertise in migrating legacy systems to cloud platforms, designing and implementing pipelines, and improving system performance. His technical skills include proficiency in programming languages such as TypeScript, Go, and Java, as well as web development frameworks like Express, Django, and Flask. He is also well-versed in data science tools like TensorFlow, NumPy, and scikit-learn, and has experience with cloud platforms including Azure and GCP. Jamie's achievements include migrating legacy VM clusters to Azure with zero downtime, building a CI/CD system using Python, and reducing MTTR by 25% via asynchronous processing.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

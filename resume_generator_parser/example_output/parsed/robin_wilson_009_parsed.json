@@ -1,0 +1,76 @@
+{
+  "filename": "robin_wilson_009.md",
+  "parsed_at": "2025-08-10T04:07:25.302495Z",
+  "data": {
+    "name": "Robin Wilson",
+    "title": "Senior Software Engineer",
+    "email": "robinwilson@outlook.com",
+    "phone": "(456) 378-2801",
+    "location": "Phoenix, AZ",
+    "education": [
+      {
+        "institution": "Tech University of",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Information Systems",
+        "year": 2018,
+        "gpa": 3.46,
+        "location": "Phoenix, AZ"
+      }
+    ],
+    "experience": [
+      {
+        "company": "DataForge",
+        "title": "Software Engineer",
+        "start": "Dec 2017",
+        "end": "Dec 2018",
+        "location": "Seattle, GA",
+        "highlights": [
+          "Reduced latency by 30% via caching",
+          "Built a microservice using Kubernetes improving error rate by 30%",
+          "Reduced latency by 20% via observability tooling"
+        ]
+      },
+      {
+        "company": "HyperWeave",
+        "title": "Full Stack Developer",
+        "start": "Dec 2016",
+        "end": "Present",
+        "location": "Phoenix, AZ",
+        "highlights": [
+          "Led 5-person team to deliver ETL replatform on time",
+          "Reduced CPU usage by 25% via caching",
+          "Designed and implemented auth gateway with PostgreSQL",
+          "Designed and implemented ingestion pipeline with TypeScript"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "Python",
+        "TypeScript",
+        "Go"
+      ],
+      "Web": [
+        "Express",
+        "Flask",
+        "Node.js"
+      ],
+      "Data": [
+        "TensorFlow",
+        "SQL",
+        "Pandas",
+        "scikit-learn"
+      ],
+      "Cloud/DevOps": [
+        "Terraform",
+        "Azure",
+        "AWS",
+        "Docker",
+        "GCP"
+      ]
+    }
+  },
+  "summary": "Robin Wilson is a seasoned Senior Software Engineer with a strong background in software development and a proven track record of delivering high-quality solutions. He holds a Bachelor of Science in Information Systems from Tech University of Phoenix, graduating with a 3.46 GPA in 2018.\n\nWith over 5 years of experience in the industry, Robin has worked as a Software Engineer at DataForge and a Full Stack Developer at HyperWeave. At DataForge, he reduced latency by 30% via caching, built a microservice using Kubernetes, and improved error rates by 30%. At HyperWeave, he led a 5-person team to deliver an ETL replatform on time, reduced CPU usage by 25% via caching, designed and implemented an auth gateway with PostgreSQL, and designed and implemented an ingestion pipeline with TypeScript.\n\nRobin's technical skills are diverse and extensive, with proficiency in programming languages such as Python, TypeScript, and Go. He is also well-versed in web development frameworks like Express, Flask, and Node.js, and has experience with data science tools like TensorFlow, SQL, Pandas, and scikit-learn. Additionally, he has expertise in cloud and DevOps tools such as Terraform, Azure, AWS, Docker, and GCP.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

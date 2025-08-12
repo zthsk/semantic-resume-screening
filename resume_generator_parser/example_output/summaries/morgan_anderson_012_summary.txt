@@ -1,0 +1,7 @@
+Morgan Anderson is a highly skilled Software Engineer with a Master's degree in Computer Science from Tech University of Central. With a strong academic background, Morgan has gained valuable industry experience through his roles at BrightHub and HyperWeave.
+
+At BrightHub, Morgan worked as a Software Engineer from September 2021 to February 2024, where he made significant contributions to the company's performance. He successfully reduced CPU usage by 20% through schema optimization and designed and implemented an ingestion pipeline with AWS.
+
+Prior to BrightHub, Morgan held the position of Data Engineer at HyperWeave from February 2021 to May 2022. During his tenure, he designed and implemented an ingestion pipeline with Kubernetes and built a real-time API using TypeScript, resulting in a 40% cost reduction.
+
+Morgan's technical skills are diverse and comprehensive, with proficiency in programming languages such as Go, C++, Python, JavaScript, and TypeScript. He is also well-versed in web development frameworks like FastAPI, Django, and Express, as well as data manipulation tools like SQL, Pandas, scikit-learn, and TensorFlow. Additionally, Morgan has experience with cloud platforms, including GCP, AWS, and Azure, as well as DevOps tools like Kubernetes.

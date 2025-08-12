@@ -1,0 +1,87 @@
+{
+  "filename": "alex_miller_020.md",
+  "parsed_at": "2025-08-10T04:07:25.315299Z",
+  "data": {
+    "name": "Alex Miller",
+    "title": "Backend Engineer",
+    "email": "alex_miller@yahoo.com",
+    "phone": "(650) 542-8055",
+    "location": "Phoenix, AZ",
+    "education": [
+      {
+        "institution": "Tech University of Central",
+        "degree": "Bachelor of Engineering",
+        "field_of_study": "Information Systems",
+        "year": 2018,
+        "gpa": 3.45,
+        "location": "Phoenix, AZ"
+      },
+      {
+        "institution": "City College of Central",
+        "degree": "Master of Engineering",
+        "field_of_study": "Information Systems",
+        "year": 2017,
+        "gpa": 3.97,
+        "location": "Phoenix, AZ"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Nextlytics",
+        "title": "Full Stack Developer",
+        "start": "Jul 2019",
+        "end": "Apr 2023",
+        "location": "Portland, CA",
+        "highlights": [
+          "Migrated legacy VM cluster to GCP with zero downtime",
+          "Led 8-person team to deliver ETL replatform on time"
+        ]
+      },
+      {
+        "company": "CodeSpring",
+        "title": "Data Engineer",
+        "start": "Sep 2021",
+        "end": "Sep 2024",
+        "location": "San Francisco, IL",
+        "highlights": [
+          "Migrated legacy VM cluster to Azure with zero downtime",
+          "Designed and implemented ingestion pipeline with Kubernetes",
+          "Designed and implemented monitoring stack with PostgreSQL",
+          "Designed and implemented ingestion pipeline with Python"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "Java",
+        "Python",
+        "C++",
+        "TypeScript"
+      ],
+      "Web": [
+        "Django",
+        "Express",
+        "React",
+        "Node.js",
+        "FastAPI"
+      ],
+      "Data": [
+        "Pandas",
+        "SQL",
+        "scikit-learn",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "Cloud/DevOps": [
+        "GCP",
+        "Terraform",
+        "Kubernetes",
+        "Azure",
+        "AWS"
+      ]
+    }
+  },
+  "summary": "Alex Miller is a seasoned Backend Engineer with a strong educational background in Information Systems from Tech University of Central and City College of Central. He holds a Bachelor of Engineering degree and a Master of Engineering degree, both in Information Systems, with a cumulative GPA of 3.45 and 3.97, respectively.\n\nWith over 4 years of experience in the industry, Alex has worked as a Full Stack Developer at Nextlytics and Data Engineer at CodeSpring. His achievements include successfully migrating legacy VM clusters to GCP and Azure with zero downtime, leading a team to deliver ETL replatform on time, and designing and implementing various data pipelines and monitoring stacks.\n\nAlex's technical skills are diverse and extensive, with proficiency in programming languages such as Java, Python, C++, and TypeScript. He is also well-versed in web development frameworks like Django, Express, React, Node.js, and FastAPI. His data skills include proficiency in Pandas, SQL, scikit-learn, PyTorch, and TensorFlow. Additionally, he has expertise in cloud and DevOps tools such as GCP, Terraform, Kubernetes, Azure, and AWS.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

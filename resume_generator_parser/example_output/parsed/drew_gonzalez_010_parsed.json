@@ -1,0 +1,94 @@
+{
+  "filename": "drew_gonzalez_010.md",
+  "parsed_at": "2025-08-10T04:07:25.303783Z",
+  "data": {
+    "name": "Drew Gonzalez",
+    "title": "Backend Engineer",
+    "email": "drew_gonzalez@proton.me",
+    "phone": "(206) 385-3347",
+    "location": "Portland, OR",
+    "education": [
+      {
+        "institution": "State University of North",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Software Engineering",
+        "year": 2022,
+        "gpa": 3.8,
+        "location": "Portland, OR"
+      },
+      {
+        "institution": "Institute of Technology of Central",
+        "degree": "Master of Science",
+        "field_of_study": "Electrical Engineering",
+        "year": 2021,
+        "gpa": 3.47,
+        "location": "Portland, OR"
+      }
+    ],
+    "experience": [
+      {
+        "company": "DataForge",
+        "title": "Machine Learning Engineer",
+        "start": "Oct 2020",
+        "end": "Mar 2020",
+        "location": "Austin, OR",
+        "highlights": [
+          "Built a CI/CD system using Kubernetes improving error rate by 30%",
+          "Built a CI/CD system using Kubernetes improving latency by 25%"
+        ]
+      },
+      {
+        "company": "HyperWeave",
+        "title": "Software Engineer",
+        "start": "Apr 2015",
+        "end": "Mar 2018",
+        "location": "Boston, MA",
+        "highlights": [
+          "Built a microservice using Kubernetes improving error rate by 20%",
+          "Built an internal SDK using Python improving error rate by 15%",
+          "Designed and implemented monitoring stack with TypeScript"
+        ]
+      },
+      {
+        "company": "BrightHub",
+        "title": "Data Engineer",
+        "start": "Sep 2021",
+        "end": "Present",
+        "location": "Boston, FL",
+        "highlights": [
+          "Led 8-person team to deliver a payments module on time",
+          "Led 4-person team to deliver recommendation engine on time",
+          "Designed and implemented ingestion pipeline with AWS"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "Java",
+        "TypeScript",
+        "Go",
+        "C++"
+      ],
+      "Web": [
+        "Express",
+        "Flask",
+        "React"
+      ],
+      "Data": [
+        "PyTorch",
+        "SQL",
+        "Pandas",
+        "TensorFlow"
+      ],
+      "Cloud/DevOps": [
+        "Azure",
+        "AWS",
+        "Kubernetes",
+        "Terraform"
+      ]
+    }
+  },
+  "summary": "Drew Gonzalez is a highly skilled Backend Engineer with a strong educational background in Software Engineering and Electrical Engineering. He holds a Bachelor of Science degree from the State University of North and a Master of Science degree from the Institute of Technology of Central, both with high GPAs. With over 6 years of experience in the industry, Drew has worked as a Machine Learning Engineer at DataForge, Software Engineer at HyperWeave, and Data Engineer at BrightHub. His achievements include building a CI/CD system using Kubernetes, improving error rates by 30% and latency by 25%, and leading teams to deliver projects on time. Drew's technical skills include proficiency in programming languages such as Java, TypeScript, Go, and C++, as well as experience with web frameworks like Express, Flask, and React. He is also knowledgeable in data processing tools like PyTorch, SQL, Pandas, and TensorFlow, and has expertise in cloud and DevOps tools such as Azure, AWS, Kubernetes, and Terraform.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

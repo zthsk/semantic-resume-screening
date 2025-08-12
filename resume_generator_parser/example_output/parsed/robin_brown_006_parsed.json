@@ -1,0 +1,92 @@
+{
+  "filename": "robin_brown_006.md",
+  "parsed_at": "2025-08-10T04:07:25.298438Z",
+  "data": {
+    "name": "Robin Brown",
+    "title": "Backend Engineer",
+    "email": "robin_brown@outlook.com",
+    "phone": "(214) 925-9751",
+    "location": "Austin, TX",
+    "education": [
+      {
+        "institution": "City College of West",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Data Science",
+        "year": 2016,
+        "gpa": 3.71,
+        "location": "Austin, TX"
+      }
+    ],
+    "experience": [
+      {
+        "company": "BluePeak",
+        "title": "Software Engineer",
+        "start": "Aug 2019",
+        "end": "Mar 2021",
+        "location": "San Francisco, MA",
+        "highlights": [
+          "Built a microservice using Kubernetes improving error rate by 15%",
+          "Built a data pipeline using Python improving MTTR by 30%",
+          "Migrated legacy cron farm to Azure with zero downtime"
+        ]
+      },
+      {
+        "company": "BluePeak",
+        "title": "Senior Software Engineer",
+        "start": "Mar 2018",
+        "end": "Jan 2020",
+        "location": "Denver, GA",
+        "highlights": [
+          "Migrated legacy VM cluster to AWS with zero downtime",
+          "Reduced cost by 30% via asynchronous processing",
+          "Built a data pipeline using TypeScript improving MTTR by 40%",
+          "Designed and implemented monitoring stack with AWS"
+        ]
+      },
+      {
+        "company": "HyperWeave",
+        "title": "Backend Engineer",
+        "start": "Feb 2015",
+        "end": "Present",
+        "location": "Phoenix, OR",
+        "highlights": [
+          "Built a CI/CD system using AWS improving latency by 20%",
+          "Designed and implemented ingestion pipeline with Kubernetes",
+          "Designed and implemented model serving layer with PostgreSQL",
+          "Built an internal SDK using AWS improving latency by 40%"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "Java",
+        "C++",
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "Web": [
+        "Node.js",
+        "Express",
+        "Django",
+        "Flask",
+        "FastAPI"
+      ],
+      "Data": [
+        "Pandas",
+        "TensorFlow",
+        "NumPy"
+      ],
+      "Cloud/DevOps": [
+        "GCP",
+        "Azure",
+        "AWS",
+        "Kubernetes",
+        "Terraform"
+      ]
+    }
+  },
+  "summary": "Robin Brown is a highly skilled Backend Engineer with a strong background in data science and software development. He holds a Bachelor of Science degree in Data Science from City College of West, graduating with a 3.71 GPA in 2016. With over 6 years of experience in the industry, Robin has developed a broad range of technical skills, including proficiency in programming languages such as Java, C++, Python, Go, and JavaScript. He is also well-versed in web development frameworks like Node.js, Express, Django, Flask, and FastAPI, as well as data analysis tools like Pandas, TensorFlow, and NumPy.\n\nThroughout his career, Robin has demonstrated exceptional achievements in his roles at BluePeak and HyperWeave. At BluePeak, he improved error rates by 15% and reduced MTTR by 30% through his work on a microservice and data pipeline, respectively. He also successfully migrated legacy systems to cloud platforms like AWS and Azure, resulting in significant cost savings and improved latency. At HyperWeave, he designed and implemented a CI/CD system, ingestion pipeline, and model serving layer, and built an internal SDK, all of which improved latency and efficiency.\n\nRobin's experience and skills make him a strong candidate for a Backend Engineer position, and his achievements demonstrate his ability to drive meaningful improvements in efficiency, latency, and cost savings.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

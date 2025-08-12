@@ -1,0 +1,85 @@
+{
+  "filename": "avery_davis_015.md",
+  "parsed_at": "2025-08-10T04:07:25.309361Z",
+  "data": {
+    "name": "Avery Davis",
+    "title": "Full Stack Developer",
+    "email": "avery_davis@outlook.com",
+    "phone": "(821) 347-6121",
+    "location": "Miami, FL",
+    "education": [
+      {
+        "institution": "City College of",
+        "degree": "Master of Engineering",
+        "field_of_study": "Software Engineering",
+        "year": 2021,
+        "gpa": 3.65,
+        "location": "Miami, FL"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudLoom",
+        "title": "Full Stack Developer",
+        "start": "May 2016",
+        "end": "Feb 2018",
+        "location": "San Francisco, MA",
+        "highlights": [
+          "Migrated legacy cron farm to Azure with zero downtime",
+          "Designed and implemented ingestion pipeline with TypeScript",
+          "Reduced CPU usage by 30% via schema optimization"
+        ]
+      },
+      {
+        "company": "InnoSoft",
+        "title": "Backend Engineer",
+        "start": "Jul 2020",
+        "end": "Jan 2023",
+        "location": "Portland, CA",
+        "highlights": [
+          "Reduced latency by 30% via schema optimization",
+          "Designed and implemented auth gateway with TypeScript"
+        ]
+      },
+      {
+        "company": "InnoSoft",
+        "title": "Machine Learning Engineer",
+        "start": "Aug 2020",
+        "end": "Oct 2021",
+        "location": "San Diego, TX",
+        "highlights": [
+          "Migrated legacy VM cluster to Azure with zero downtime",
+          "Reduced CPU usage by 25% via observability tooling",
+          "Built a real-time API using Kubernetes improving CPU usage by 40%"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "C++",
+        "Go",
+        "Java",
+        "Python",
+        "TypeScript"
+      ],
+      "Web": [
+        "Flask",
+        "React",
+        "Node.js"
+      ],
+      "Data": [
+        "PyTorch",
+        "scikit-learn",
+        "SQL"
+      ],
+      "Cloud/DevOps": [
+        "Docker",
+        "GCP",
+        "Terraform"
+      ]
+    }
+  },
+  "summary": "Avery Davis is a highly skilled Full Stack Developer with a Master of Engineering degree in Software Engineering from City College of in 2021. With over 6 years of experience in the industry, Avery has developed a strong technical skillset across multiple programming languages, including C++, Go, Java, Python, and TypeScript. He has also demonstrated expertise in web development with Flask, React, and Node.js, as well as data analysis with PyTorch, scikit-learn, and SQL.\n\nThroughout his career, Avery has achieved significant accomplishments, including migrating legacy systems to cloud platforms with zero downtime, reducing CPU usage by 30% through schema optimization, and improving latency by 30% through schema optimization. He has also designed and implemented various pipelines, gateways, and APIs, showcasing his ability to work on complex projects.\n\nAvery's experience spans multiple companies, including CloudLoom, InnoSoft, and InnoSoft, where he held roles as Full Stack Developer, Backend Engineer, and Machine Learning Engineer. His accomplishments and skills make him a strong candidate for a variety of technical roles.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

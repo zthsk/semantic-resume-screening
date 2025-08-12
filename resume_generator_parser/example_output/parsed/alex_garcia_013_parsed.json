@@ -1,0 +1,77 @@
+{
+  "filename": "alex_garcia_013.md",
+  "parsed_at": "2025-08-10T04:07:25.307155Z",
+  "data": {
+    "name": "Alex Garcia",
+    "title": "Data Engineer",
+    "email": "alexgarcia@proton.me",
+    "phone": "(379) 997-8612",
+    "location": "Miami, FL",
+    "education": [
+      {
+        "institution": "Institute of Technology of North",
+        "degree": "Master of Science",
+        "field_of_study": "Computer Science",
+        "year": 2018,
+        "gpa": 3.43,
+        "location": "Miami, FL"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudLoom",
+        "title": "Software Engineer",
+        "start": "May 2020",
+        "end": "Aug 2024",
+        "location": "Boston, CA",
+        "highlights": [
+          "Led 5-person team to deliver a payments module on time",
+          "Designed and implemented model serving layer with TypeScript",
+          "Designed and implemented auth gateway with Kubernetes",
+          "Reduced MTTR by 30% via schema optimization"
+        ]
+      },
+      {
+        "company": "Nextlytics",
+        "title": "Data Engineer",
+        "start": "May 2021",
+        "end": "Feb 2021",
+        "location": "Phoenix, AZ",
+        "highlights": [
+          "Reduced cost by 15% via caching",
+          "Reduced MTTR by 15% via observability tooling",
+          "Built a real-time API using Go improving MTTR by 25%"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "JavaScript",
+        "Java",
+        "Go",
+        "TypeScript",
+        "Python"
+      ],
+      "Web": [
+        "Express",
+        "Django",
+        "Node.js",
+        "FastAPI"
+      ],
+      "Data": [
+        "SQL",
+        "PyTorch",
+        "NumPy",
+        "Pandas"
+      ],
+      "Cloud/DevOps": [
+        "AWS",
+        "Docker",
+        "GCP"
+      ]
+    }
+  },
+  "summary": "Alex Garcia is a highly skilled Data Engineer with a Master of Science degree in Computer Science from the Institute of Technology of North (2018). With over 4 years of experience in the field, he has developed a strong technical skillset in programming languages such as JavaScript, Java, Go, TypeScript, and Python. He is also proficient in web development frameworks like Express, Django, Node.js, and FastAPI, as well as data manipulation tools like SQL, PyTorch, NumPy, and Pandas.\n\nThroughout his career, Alex has demonstrated exceptional achievements in his roles as Software Engineer at CloudLoom and Data Engineer at Nextlytics. At CloudLoom, he led a 5-person team to deliver a payments module on time, designed and implemented a model serving layer with TypeScript, and reduced MTTR by 30% via schema optimization. At Nextlytics, he reduced cost by 15% via caching, reduced MTTR by 15% via observability tooling, and built a real-time API using Go, improving MTTR by 25%.\n\nAlex's experience and skills make him a valuable asset to any organization, particularly in the fields of data engineering, software engineering, and cloud/DevOps.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

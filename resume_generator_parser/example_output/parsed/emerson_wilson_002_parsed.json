@@ -1,0 +1,103 @@
+{
+  "filename": "emerson_wilson_002.md",
+  "parsed_at": "2025-08-10T04:07:25.292992Z",
+  "data": {
+    "name": "Emerson Wilson",
+    "title": "Backend Engineer",
+    "email": "emerson.wilson@outlook.com",
+    "phone": "(446) 780-2290",
+    "location": "Seattle, WA",
+    "education": [
+      {
+        "institution": "Tech University of West",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Data Science",
+        "year": 2023,
+        "gpa": 3.73,
+        "location": "Seattle, WA"
+      },
+      {
+        "institution": "Institute of Technology of West",
+        "degree": "Master of Science",
+        "field_of_study": "Information Systems",
+        "year": 2022,
+        "gpa": 3.94,
+        "location": "Seattle, WA"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudLoom",
+        "title": "Machine Learning Engineer",
+        "start": "Jul 2019",
+        "end": "Jun 2024",
+        "location": "Atlanta, CA",
+        "highlights": [
+          "Built a data pipeline using Go improving latency by 25%",
+          "Built a data pipeline using Python improving latency by 25%",
+          "Led 6-person team to deliver ETL replatform on time"
+        ]
+      },
+      {
+        "company": "BrightHub",
+        "title": "Backend Engineer",
+        "start": "Jul 2021",
+        "end": "Nov 2021",
+        "location": "Phoenix, AZ",
+        "highlights": [
+          "Built an internal SDK using PostgreSQL improving CPU usage by 15%",
+          "Led 6-person team to deliver a payments module on time"
+        ]
+      },
+      {
+        "company": "InnoSoft",
+        "title": "Full Stack Developer",
+        "start": "Aug 2022",
+        "end": "Present",
+        "location": "Denver, CA",
+        "highlights": [
+          "Designed and implemented ingestion pipeline with Kubernetes",
+          "Led 8-person team to deliver feature store on time"
+        ]
+      },
+      {
+        "company": "QuantumNest",
+        "title": "Data Engineer",
+        "start": "Jan 2017",
+        "end": "Mar 2018",
+        "location": "Seattle, OR",
+        "highlights": [
+          "Led 7-person team to deliver a payments module on time",
+          "Migrated legacy cron farm to AWS with zero downtime"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "C++",
+        "TypeScript",
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "Web": [
+        "Django",
+        "Flask",
+        "React"
+      ],
+      "Data": [
+        "TensorFlow",
+        "NumPy",
+        "scikit-learn"
+      ],
+      "Cloud/DevOps": [
+        "Azure",
+        "AWS",
+        "GCP"
+      ]
+    }
+  },
+  "summary": "Emerson Wilson is a highly skilled Backend Engineer with a strong educational background in Data Science and Information Systems. He holds a Bachelor of Science degree from Tech University of West and a Master of Science degree from Institute of Technology of West, both with high GPAs. With over 6 years of experience in the industry, Emerson has worked in various roles, including Machine Learning Engineer, Backend Engineer, Full Stack Developer, and Data Engineer.\n\nEmerson's technical skills include proficiency in programming languages such as C++, TypeScript, Java, JavaScript, and Python. He is also experienced in web development frameworks like Django, Flask, and React, and has expertise in data analysis and machine learning using TensorFlow, NumPy, and scikit-learn. Additionally, he has hands-on experience with cloud platforms including Azure, AWS, and GCP.\n\nThroughout his career, Emerson has achieved several notable accomplishments, including building data pipelines that improved latency by 25%, leading teams to deliver projects on time, and migrating legacy systems to cloud platforms with zero downtime. His experience in leading teams and delivering projects on time demonstrates his ability to work effectively in a team environment and manage multiple priorities.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

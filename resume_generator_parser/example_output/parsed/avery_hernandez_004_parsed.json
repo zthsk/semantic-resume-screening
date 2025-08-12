@@ -1,0 +1,89 @@
+{
+  "filename": "avery_hernandez_004.md",
+  "parsed_at": "2025-08-10T04:07:25.295827Z",
+  "data": {
+    "name": "Avery Hernandez",
+    "title": "Full Stack Developer",
+    "email": "averyhernandez@outlook.com",
+    "phone": "(782) 508-7653",
+    "location": "San Diego, CA",
+    "education": [
+      {
+        "institution": "Institute of Technology of",
+        "degree": "Bachelor of Engineering",
+        "field_of_study": "Software Engineering",
+        "year": 2020,
+        "gpa": 3.69,
+        "location": "San Diego, CA"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CodeSpring",
+        "title": "Full Stack Developer",
+        "start": "Nov 2022",
+        "end": "Present",
+        "location": "Atlanta, FL",
+        "highlights": [
+          "Built a CI/CD system using AWS improving MTTR by 25%",
+          "Built a microservice using Go improving error rate by 40%"
+        ]
+      },
+      {
+        "company": "BrightHub",
+        "title": "Full Stack Developer",
+        "start": "Apr 2021",
+        "end": "Present",
+        "location": "Miami, CA",
+        "highlights": [
+          "Designed and implemented monitoring stack with Go",
+          "Migrated legacy VM cluster to GCP with zero downtime"
+        ]
+      },
+      {
+        "company": "CodeSpring",
+        "title": "Backend Engineer",
+        "start": "Nov 2018",
+        "end": "Present",
+        "location": "San Diego, GA",
+        "highlights": [
+          "Led 4-person team to deliver feature store on time",
+          "Led 8-person team to deliver recommendation engine on time",
+          "Migrated legacy cron farm to AWS with zero downtime",
+          "Reduced error rate by 40% via observability tooling"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "Python",
+        "Java",
+        "TypeScript",
+        "Go"
+      ],
+      "Web": [
+        "Django",
+        "Node.js",
+        "FastAPI",
+        "React",
+        "Express"
+      ],
+      "Data": [
+        "TensorFlow",
+        "SQL",
+        "Pandas",
+        "PyTorch"
+      ],
+      "Cloud/DevOps": [
+        "Docker",
+        "GCP",
+        "Terraform",
+        "AWS",
+        "Azure"
+      ]
+    }
+  },
+  "summary": "Avery Hernandez is a highly skilled Full Stack Developer with a Bachelor of Engineering degree in Software Engineering from the Institute of Technology. With over 4 years of experience in the field, Avery has developed a strong proficiency in a range of programming languages, including Python, Java, TypeScript, and Go. He has also demonstrated expertise in web development frameworks such as Django, Node.js, FastAPI, React, and Express.\n\nAvery's achievements include building a CI/CD system using AWS, which improved MTTR by 25%, and designing and implementing a monitoring stack with Go. He has also successfully migrated legacy VM clusters to GCP with zero downtime and reduced error rates by 40% through observability tooling.\n\nThroughout his experience, Avery has worked as a Full Stack Developer and Backend Engineer at CodeSpring and BrightHub, respectively. He has led teams to deliver features and projects on time, and has demonstrated his ability to work effectively in fast-paced environments. Avery's technical skills also extend to data analysis and machine learning, with proficiency in TensorFlow, SQL, Pandas, and PyTorch.\n\nOverall, Avery is a highly skilled and accomplished developer with a strong technical foundation and a proven track record of delivering high-quality results.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

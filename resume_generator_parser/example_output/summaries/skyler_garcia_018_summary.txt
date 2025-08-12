@@ -1,0 +1,5 @@
+Skyler Garcia is a highly skilled Software Engineer with a Master's degree in Software Engineering from City College of East, Seattle, WA. With over 6 years of experience in the industry, Skyler has demonstrated exceptional technical skills in programming languages such as Go, TypeScript, Python, and C++. He has also developed expertise in web development technologies like FastAPI, Django, Node.js, React, and Express.
+
+In his previous roles at CloudLoom and CodeSpring, Skyler has showcased his leadership skills, successfully leading teams to deliver projects on time and exceeding expectations. Notable achievements include reducing error rates and MTTR, optimizing schema for improved performance, and migrating legacy systems to cloud platforms with zero downtime.
+
+Skyler's technical skills also extend to data technologies such as NumPy, SQL, TensorFlow, scikit-learn, and PyTorch. He has experience with cloud platforms including Azure, Docker, AWS, and GCP. With a strong educational background and impressive professional track record, Skyler is a highly qualified candidate for software engineering positions.

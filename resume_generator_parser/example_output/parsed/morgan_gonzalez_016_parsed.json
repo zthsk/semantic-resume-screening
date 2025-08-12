@@ -1,0 +1,89 @@
+{
+  "filename": "morgan_gonzalez_016.md",
+  "parsed_at": "2025-08-10T04:07:25.310628Z",
+  "data": {
+    "name": "Morgan Gonzalez",
+    "title": "Data Engineer",
+    "email": "morgangonzalez@yahoo.com",
+    "phone": "(944) 263-3262",
+    "location": "San Diego, CA",
+    "education": [
+      {
+        "institution": "Institute of Technology of East",
+        "degree": "Master of Engineering",
+        "field_of_study": "Data Science",
+        "year": 2021,
+        "gpa": 3.97,
+        "location": "San Diego, CA"
+      }
+    ],
+    "experience": [
+      {
+        "company": "QuantumNest",
+        "title": "Backend Engineer",
+        "start": "Nov 2020",
+        "end": "Nov 2025",
+        "location": "Phoenix, FL",
+        "highlights": [
+          "Migrated legacy cron farm to Azure with zero downtime",
+          "Led 7-person team to deliver feature store on time",
+          "Migrated legacy cron farm to GCP with zero downtime"
+        ]
+      },
+      {
+        "company": "DataForge",
+        "title": "Machine Learning Engineer",
+        "start": "Apr 2022",
+        "end": "Present",
+        "location": "San Diego, MA",
+        "highlights": [
+          "Reduced MTTR by 40% via caching",
+          "Built a microservice using Kubernetes improving CPU usage by 30%",
+          "Designed and implemented auth gateway with PostgreSQL",
+          "Led 6-person team to deliver recommendation engine on time"
+        ]
+      },
+      {
+        "company": "DataForge",
+        "title": "Software Engineer",
+        "start": "May 2015",
+        "end": "Jun 2016",
+        "location": "Boston, GA",
+        "highlights": [
+          "Migrated legacy cron farm to AWS with zero downtime",
+          "Designed and implemented ingestion pipeline with PostgreSQL",
+          "Designed and implemented ingestion pipeline with AWS",
+          "Led 6-person team to deliver feature store on time"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "Python",
+        "TypeScript",
+        "Go",
+        "Java",
+        "C++"
+      ],
+      "Web": [
+        "FastAPI",
+        "React",
+        "Django"
+      ],
+      "Data": [
+        "NumPy",
+        "PyTorch",
+        "scikit-learn",
+        "TensorFlow"
+      ],
+      "Cloud/DevOps": [
+        "Terraform",
+        "Azure",
+        "Kubernetes"
+      ]
+    }
+  },
+  "summary": "Morgan Gonzalez is a highly skilled Data Engineer with a Master's degree in Data Science from the Institute of Technology of East (2021). With over 6 years of experience in the industry, Morgan has developed a strong technical skillset in programming languages such as Python, TypeScript, Go, Java, and C++. He has also demonstrated expertise in web development with FastAPI, React, and Django, as well as data science tools like NumPy, PyTorch, scikit-learn, and TensorFlow.\n\nThroughout his career, Morgan has held various roles, including Backend Engineer at QuantumNest, Machine Learning Engineer and Software Engineer at DataForge. His achievements include migrating legacy cron farms to Azure, GCP, and AWS with zero downtime, leading teams to deliver feature stores and recommendation engines on time, and reducing MTTR by 40% via caching.\n\nMorgan's experience spans multiple locations, including Phoenix, FL, San Diego, MA, and Boston, GA. His skills in cloud and DevOps include Terraform, Azure, and Kubernetes. With a strong track record of delivering projects on time and improving system performance, Morgan is a valuable asset to any organization seeking a skilled Data Engineer.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

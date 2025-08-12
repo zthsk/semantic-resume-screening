@@ -1,0 +1,97 @@
+{
+  "filename": "riley_jones_003.md",
+  "parsed_at": "2025-08-10T04:07:25.294467Z",
+  "data": {
+    "name": "Riley Jones",
+    "title": "Senior Software Engineer",
+    "email": "rileyjones@yahoo.com",
+    "phone": "(920) 509-9666",
+    "location": "San Francisco, CA",
+    "education": [
+      {
+        "institution": "City College of North",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Software Engineering",
+        "year": 2020,
+        "gpa": 3.91,
+        "location": "San Francisco, CA"
+      },
+      {
+        "institution": "City College of",
+        "degree": "Master of Science",
+        "field_of_study": "Information Systems",
+        "year": 2019,
+        "gpa": 3.37,
+        "location": "San Francisco, CA"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudLoom",
+        "title": "Machine Learning Engineer",
+        "start": "Sep 2019",
+        "end": "Jan 2025",
+        "location": "Seattle, AZ",
+        "highlights": [
+          "Reduced CPU usage by 20% via asynchronous processing",
+          "Designed and implemented model serving layer with Python",
+          "Led 5-person team to deliver a payments module on time"
+        ]
+      },
+      {
+        "company": "BluePeak",
+        "title": "Backend Engineer",
+        "start": "Oct 2021",
+        "end": "Mar 2022",
+        "location": "Austin, CO",
+        "highlights": [
+          "Led 4-person team to deliver a payments module on time",
+          "Led 4-person team to deliver a payments module on time"
+        ]
+      },
+      {
+        "company": "BluePeak",
+        "title": "Backend Engineer",
+        "start": "Nov 2020",
+        "end": "Sep 2025",
+        "location": "Chicago, CA",
+        "highlights": [
+          "Reduced CPU usage by 15% via schema optimization",
+          "Migrated legacy VM cluster to Azure with zero downtime"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "Python"
+      ],
+      "Web": [
+        "Express",
+        "Flask",
+        "FastAPI",
+        "Django",
+        "React"
+      ],
+      "Data": [
+        "scikit-learn",
+        "TensorFlow",
+        "SQL",
+        "PyTorch",
+        "NumPy"
+      ],
+      "Cloud/DevOps": [
+        "Docker",
+        "Azure",
+        "GCP",
+        "AWS"
+      ]
+    }
+  },
+  "summary": "Riley Jones is a seasoned Senior Software Engineer with a strong educational background in Software Engineering and Information Systems. He holds a Bachelor of Science degree in Software Engineering from City College of North and a Master of Science degree in Information Systems from City College of. With over 5 years of experience in the industry, Riley has developed a diverse skill set in programming languages, including C++, JavaScript, TypeScript, Go, and Python. He is also proficient in web development frameworks such as Express, Flask, FastAPI, Django, and React, and has expertise in data analysis and machine learning with tools like scikit-learn, TensorFlow, SQL, PyTorch, and NumPy. Riley has worked with various cloud platforms, including Azure, GCP, and AWS, and has experience with Docker and DevOps. Throughout his career, Riley has demonstrated exceptional leadership skills, having led teams to deliver projects on time and achieving notable achievements such as reducing CPU usage by 20% and migrating legacy VM clusters to Azure with zero downtime.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

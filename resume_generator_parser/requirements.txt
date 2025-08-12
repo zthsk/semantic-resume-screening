@@ -1,0 +1,28 @@
+# Core dependencies
+fastapi>=0.104.0,<1.0.0
+uvicorn[standard]>=0.24.0,<1.0.0
+pydantic>=2.0.0,<3.0.0
+pydantic-settings>=2.0.0,<3.0.0
+
+# Groq API client for cloud LLM inference
+groq>=0.4.0,<1.0.0
+
+# PDF processing
+pymupdf4llm>=0.1.0,<1.0.0
+
+# Local LLM support (optional - for running models locally)
+transformers>=4.35.0,<5.0.0
+torch>=2.0.0,<3.0.0
+accelerate>=0.24.0,<1.0.0
+sentencepiece>=0.1.99  # Required for many transformer models
+
+# PDF generation (optional - for resume output)
+reportlab>=4.0.0,<4.1.0
+
+# Web utilities
+python-multipart>=0.0.6,<1.0.0  # For file uploads in FastAPI
+python-dotenv>=1.0.0,<2.0.0     # For environment variable loading
+
+# Development and testing (optional)
+pytest>=7.0.0,<8.0.0            # For running tests
+pytest-asyncio>=0.21.0,<1.0.0   # For async test support

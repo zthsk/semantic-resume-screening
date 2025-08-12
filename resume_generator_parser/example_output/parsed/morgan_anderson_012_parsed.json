@@ -1,0 +1,74 @@
+{
+  "filename": "morgan_anderson_012.md",
+  "parsed_at": "2025-08-10T04:07:25.306045Z",
+  "data": {
+    "name": "Morgan Anderson",
+    "title": "Software Engineer",
+    "email": "morgan_anderson@gmail.com",
+    "phone": "(285) 981-3626",
+    "location": "Boston, MA",
+    "education": [
+      {
+        "institution": "Tech University of Central",
+        "degree": "Master of Engineering",
+        "field_of_study": "Computer Science",
+        "year": 2018,
+        "gpa": 3.91,
+        "location": "Boston, MA"
+      }
+    ],
+    "experience": [
+      {
+        "company": "BrightHub",
+        "title": "Software Engineer",
+        "start": "Sep 2021",
+        "end": "Feb 2024",
+        "location": "Chicago, NY",
+        "highlights": [
+          "Reduced CPU usage by 20% via schema optimization",
+          "Designed and implemented ingestion pipeline with AWS"
+        ]
+      },
+      {
+        "company": "HyperWeave",
+        "title": "Data Engineer",
+        "start": "Feb 2021",
+        "end": "May 2022",
+        "location": "Seattle, CA",
+        "highlights": [
+          "Designed and implemented ingestion pipeline with Kubernetes",
+          "Built a real-time API using TypeScript improving cost by 40%"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "Go",
+        "C++",
+        "Python",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "Web": [
+        "FastAPI",
+        "Django",
+        "Express"
+      ],
+      "Data": [
+        "SQL",
+        "Pandas",
+        "scikit-learn",
+        "TensorFlow"
+      ],
+      "Cloud/DevOps": [
+        "GCP",
+        "AWS",
+        "Azure",
+        "Kubernetes"
+      ]
+    }
+  },
+  "summary": "Morgan Anderson is a highly skilled Software Engineer with a Master's degree in Computer Science from Tech University of Central. With a strong academic background, Morgan has gained valuable industry experience through his roles at BrightHub and HyperWeave.\n\nAt BrightHub, Morgan worked as a Software Engineer from September 2021 to February 2024, where he made significant contributions to the company's performance. He successfully reduced CPU usage by 20% through schema optimization and designed and implemented an ingestion pipeline with AWS.\n\nPrior to BrightHub, Morgan held the position of Data Engineer at HyperWeave from February 2021 to May 2022. During his tenure, he designed and implemented an ingestion pipeline with Kubernetes and built a real-time API using TypeScript, resulting in a 40% cost reduction.\n\nMorgan's technical skills are diverse and comprehensive, with proficiency in programming languages such as Go, C++, Python, JavaScript, and TypeScript. He is also well-versed in web development frameworks like FastAPI, Django, and Express, as well as data manipulation tools like SQL, Pandas, scikit-learn, and TensorFlow. Additionally, Morgan has experience with cloud platforms, including GCP, AWS, and Azure, as well as DevOps tools like Kubernetes.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

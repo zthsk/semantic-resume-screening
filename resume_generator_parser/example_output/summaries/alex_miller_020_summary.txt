@@ -1,0 +1,5 @@
+Alex Miller is a seasoned Backend Engineer with a strong educational background in Information Systems from Tech University of Central and City College of Central. He holds a Bachelor of Engineering degree and a Master of Engineering degree, both in Information Systems, with a cumulative GPA of 3.45 and 3.97, respectively.
+
+With over 4 years of experience in the industry, Alex has worked as a Full Stack Developer at Nextlytics and Data Engineer at CodeSpring. His achievements include successfully migrating legacy VM clusters to GCP and Azure with zero downtime, leading a team to deliver ETL replatform on time, and designing and implementing various data pipelines and monitoring stacks.
+
+Alex's technical skills are diverse and extensive, with proficiency in programming languages such as Java, Python, C++, and TypeScript. He is also well-versed in web development frameworks like Django, Express, React, Node.js, and FastAPI. His data skills include proficiency in Pandas, SQL, scikit-learn, PyTorch, and TensorFlow. Additionally, he has expertise in cloud and DevOps tools such as GCP, Terraform, Kubernetes, Azure, and AWS.

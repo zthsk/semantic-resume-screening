@@ -1,0 +1,87 @@
+{
+  "filename": "emerson_gonzalez_008.md",
+  "parsed_at": "2025-08-10T04:07:25.301201Z",
+  "data": {
+    "name": "Emerson Gonzalez",
+    "title": "Full Stack Developer",
+    "email": "emersongonzalez@proton.me",
+    "phone": "(759) 361-2210",
+    "location": "Atlanta, GA",
+    "education": [
+      {
+        "institution": "Institute of Technology of East",
+        "degree": "Master of Engineering",
+        "field_of_study": "Information Systems",
+        "year": 2020,
+        "gpa": 3.36,
+        "location": "Atlanta, GA"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CodeSpring",
+        "title": "Software Engineer",
+        "start": "Jul 2018",
+        "end": "Dec 2022",
+        "location": "Boston, CA",
+        "highlights": [
+          "Designed and implemented ingestion pipeline with Python",
+          "Led 8-person team to deliver a payments module on time",
+          "Migrated legacy monolith to AWS with zero downtime",
+          "Migrated legacy VM cluster to GCP with zero downtime"
+        ]
+      },
+      {
+        "company": "BluePeak",
+        "title": "Full Stack Developer",
+        "start": "Mar 2016",
+        "end": "Nov 2019",
+        "location": "Miami, AZ",
+        "highlights": [
+          "Migrated legacy VM cluster to Azure with zero downtime",
+          "Reduced CPU usage by 15% via observability tooling",
+          "Reduced latency by 30% via observability tooling"
+        ]
+      },
+      {
+        "company": "TechNova",
+        "title": "Backend Engineer",
+        "start": "Feb 2022",
+        "end": "Present",
+        "location": "San Diego, TX",
+        "highlights": [
+          "Designed and implemented auth gateway with PostgreSQL",
+          "Designed and implemented model serving layer with Python",
+          "Reduced CPU usage by 15% via asynchronous processing"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "JavaScript",
+        "Go",
+        "Python",
+        "Java",
+        "C++"
+      ],
+      "Web": [
+        "Node.js",
+        "Flask",
+        "FastAPI"
+      ],
+      "Data": [
+        "TensorFlow",
+        "NumPy",
+        "SQL"
+      ],
+      "Cloud/DevOps": [
+        "Azure",
+        "GCP",
+        "AWS"
+      ]
+    }
+  },
+  "summary": "Emerson Gonzalez is a highly skilled Full Stack Developer with a Master of Engineering degree in Information Systems from the Institute of Technology of East (2020). With over 5 years of experience in software development, Emerson has demonstrated expertise in designing and implementing complex systems, leading teams, and migrating legacy systems to cloud platforms.\n\nIn his current role at TechNova, Emerson has designed and implemented an auth gateway with PostgreSQL and a model serving layer with Python, resulting in a 15% reduction in CPU usage through asynchronous processing. At CodeSpring, he led a team to deliver a payments module on time and migrated a legacy monolith to AWS with zero downtime. At BluePeak, he migrated a legacy VM cluster to Azure with zero downtime and reduced CPU usage and latency through observability tooling.\n\nEmerson's technical skills include proficiency in programming languages such as JavaScript, Go, Python, Java, and C++. He is also experienced in web development with Node.js, Flask, and FastAPI, and has expertise in data processing with TensorFlow, NumPy, and SQL. Additionally, he has experience with cloud platforms including Azure, GCP, and AWS.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

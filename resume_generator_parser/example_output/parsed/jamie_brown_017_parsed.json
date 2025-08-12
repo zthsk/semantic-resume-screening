@@ -1,0 +1,104 @@
+{
+  "filename": "jamie_brown_017.md",
+  "parsed_at": "2025-08-10T04:07:25.311676Z",
+  "data": {
+    "name": "Jamie Brown",
+    "title": "Senior Software Engineer",
+    "email": "jamie_brown@outlook.com",
+    "phone": "(356) 665-7121",
+    "location": "Denver, CO",
+    "education": [
+      {
+        "institution": "State University of",
+        "degree": "Master of Science",
+        "field_of_study": "Software Engineering",
+        "year": 2023,
+        "gpa": 3.56,
+        "location": "Denver, CO"
+      },
+      {
+        "institution": "State University of North",
+        "degree": "Bachelor of Engineering",
+        "field_of_study": "Computer Science",
+        "year": 2022,
+        "gpa": 3.86,
+        "location": "Denver, CO"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudLoom",
+        "title": "Data Engineer",
+        "start": "Mar 2017",
+        "end": "Aug 2025",
+        "location": "Seattle, AZ",
+        "highlights": [
+          "Migrated legacy cron farm to Azure with zero downtime",
+          "Built a real-time API using Kubernetes improving CPU usage by 15%"
+        ]
+      },
+      {
+        "company": "TechNova",
+        "title": "Full Stack Developer",
+        "start": "Dec 2020",
+        "end": "Present",
+        "location": "San Francisco, WA",
+        "highlights": [
+          "Built a CI/CD system using Kubernetes improving cost by 20%",
+          "Designed and implemented ingestion pipeline with PostgreSQL",
+          "Migrated legacy VM cluster to GCP with zero downtime"
+        ]
+      },
+      {
+        "company": "CloudLoom",
+        "title": "Senior Software Engineer",
+        "start": "Jun 2022",
+        "end": "Present",
+        "location": "New York, FL",
+        "highlights": [
+          "Built an internal SDK using AWS improving latency by 20%",
+          "Built a data pipeline using PostgreSQL improving latency by 30%"
+        ]
+      },
+      {
+        "company": "DataForge",
+        "title": "Senior Software Engineer",
+        "start": "Oct 2020",
+        "end": "Jun 2025",
+        "location": "New York, MA",
+        "highlights": [
+          "Migrated legacy monolith to GCP with zero downtime",
+          "Designed and implemented ingestion pipeline with TypeScript"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "JavaScript",
+        "TypeScript",
+        "C++"
+      ],
+      "Web": [
+        "React",
+        "Flask",
+        "Django",
+        "Node.js"
+      ],
+      "Data": [
+        "TensorFlow",
+        "NumPy",
+        "PyTorch",
+        "Pandas",
+        "SQL"
+      ],
+      "Cloud/DevOps": [
+        "Azure",
+        "AWS",
+        "Docker"
+      ]
+    }
+  },
+  "summary": "Jamie Brown is a highly experienced Senior Software Engineer with a strong background in software engineering and computer science. He holds a Master of Science degree in Software Engineering from State University of Denver and a Bachelor of Engineering degree in Computer Science from State University of North. With over 8 years of experience in the industry, Jamie has worked with various companies, including CloudLoom, TechNova, and DataForge, where he has held roles such as Data Engineer, Full Stack Developer, and Senior Software Engineer.\n\nJamie's technical skills are extensive, with proficiency in programming languages such as JavaScript, TypeScript, and C++. He has experience with web development frameworks like React, Flask, Django, and Node.js, and is well-versed in data-related technologies like TensorFlow, NumPy, PyTorch, Pandas, and SQL. Additionally, he has expertise in cloud and DevOps technologies, including Azure, AWS, and Docker.\n\nThroughout his career, Jamie has achieved several notable accomplishments, including migrating legacy systems to cloud platforms, improving CPU usage and latency, and designing and implementing data pipelines and ingestion systems. His experience in building CI/CD systems, SDKs, and internal tools has also improved cost, latency, and overall efficiency.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

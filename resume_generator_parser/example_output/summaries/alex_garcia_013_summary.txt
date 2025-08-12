@@ -1,0 +1,5 @@
+Alex Garcia is a highly skilled Data Engineer with a Master of Science degree in Computer Science from the Institute of Technology of North (2018). With over 4 years of experience in the field, he has developed a strong technical skillset in programming languages such as JavaScript, Java, Go, TypeScript, and Python. He is also proficient in web development frameworks like Express, Django, Node.js, and FastAPI, as well as data manipulation tools like SQL, PyTorch, NumPy, and Pandas.
+
+Throughout his career, Alex has demonstrated exceptional achievements in his roles as Software Engineer at CloudLoom and Data Engineer at Nextlytics. At CloudLoom, he led a 5-person team to deliver a payments module on time, designed and implemented a model serving layer with TypeScript, and reduced MTTR by 30% via schema optimization. At Nextlytics, he reduced cost by 15% via caching, reduced MTTR by 15% via observability tooling, and built a real-time API using Go, improving MTTR by 25%.
+
+Alex's experience and skills make him a valuable asset to any organization, particularly in the fields of data engineering, software engineering, and cloud/DevOps.

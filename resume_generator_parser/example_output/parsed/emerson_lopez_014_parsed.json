@@ -1,0 +1,76 @@
+{
+  "filename": "emerson_lopez_014.md",
+  "parsed_at": "2025-08-10T04:07:25.308266Z",
+  "data": {
+    "name": "Emerson Lopez",
+    "title": "Full Stack Developer",
+    "email": "emersonlopez@gmail.com",
+    "phone": "(527) 883-6692",
+    "location": "Miami, FL",
+    "education": [
+      {
+        "institution": "Tech University of East",
+        "degree": "Bachelor of Engineering",
+        "field_of_study": "Software Engineering",
+        "year": 2020,
+        "gpa": 3.61,
+        "location": "Miami, FL"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CloudLoom",
+        "title": "Senior Software Engineer",
+        "start": "Aug 2018",
+        "end": "Present",
+        "location": "San Diego, OR",
+        "highlights": [
+          "Designed and implemented monitoring stack with Go",
+          "Designed and implemented monitoring stack with Python",
+          "Reduced MTTR by 20% via caching"
+        ]
+      },
+      {
+        "company": "DataForge",
+        "title": "Senior Software Engineer",
+        "start": "Jun 2017",
+        "end": "Jun 2020",
+        "location": "San Diego, MA",
+        "highlights": [
+          "Reduced MTTR by 25% via caching",
+          "Led 5-person team to deliver a payments module on time"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "C++",
+        "Python"
+      ],
+      "Web": [
+        "FastAPI",
+        "Flask",
+        "Express",
+        "Django"
+      ],
+      "Data": [
+        "PyTorch",
+        "NumPy",
+        "SQL",
+        "TensorFlow"
+      ],
+      "Cloud/DevOps": [
+        "AWS",
+        "Terraform",
+        "GCP",
+        "Docker"
+      ]
+    }
+  },
+  "summary": "Emerson Lopez is a highly skilled Full Stack Developer with a strong educational background in Software Engineering from Tech University of East, graduating in 2020 with a GPA of 3.61. With over 4 years of experience in the industry, Emerson has worked as a Senior Software Engineer at CloudLoom and DataForge, where he has demonstrated expertise in designing and implementing monitoring stacks using Go and Python, reducing MTTR by 20% and 25% respectively. Emerson's technical skills are extensive, including proficiency in programming languages such as TypeScript, JavaScript, Java, C++, and Python, as well as experience with web frameworks like FastAPI, Flask, Express, and Django. He is also well-versed in data technologies like PyTorch, NumPy, SQL, and TensorFlow. Additionally, Emerson has expertise in cloud and DevOps tools, including AWS, Terraform, GCP, and Docker.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

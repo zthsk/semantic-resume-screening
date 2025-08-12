@@ -1,0 +1,95 @@
+{
+  "filename": "avery_davis_019.md",
+  "parsed_at": "2025-08-10T04:07:25.314140Z",
+  "data": {
+    "name": "Avery Davis",
+    "title": "Data Engineer",
+    "email": "averydavis@outlook.com",
+    "phone": "(431) 507-2320",
+    "location": "Phoenix, AZ",
+    "education": [
+      {
+        "institution": "Institute of Technology of Central",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Electrical Engineering",
+        "year": 2016,
+        "gpa": 3.64,
+        "location": "Phoenix, AZ"
+      },
+      {
+        "institution": "Tech University of North",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "year": 2015,
+        "gpa": 3.6,
+        "location": "Phoenix, AZ"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Nextlytics",
+        "title": "Data Engineer",
+        "start": "Sep 2016",
+        "end": "Apr 2019",
+        "location": "Miami, OR",
+        "highlights": [
+          "Reduced CPU usage by 40% via asynchronous processing",
+          "Migrated legacy VM cluster to Azure with zero downtime",
+          "Reduced cost by 15% via caching"
+        ]
+      },
+      {
+        "company": "BluePeak",
+        "title": "Backend Engineer",
+        "start": "Jun 2021",
+        "end": "Present",
+        "location": "Boston, GA",
+        "highlights": [
+          "Led 4-person team to deliver ETL replatform on time",
+          "Built a microservice using TypeScript improving cost by 30%",
+          "Built a microservice using TypeScript improving error rate by 25%"
+        ]
+      },
+      {
+        "company": "CodeSpring",
+        "title": "Data Engineer",
+        "start": "Feb 2021",
+        "end": "Present",
+        "location": "Chicago, CA",
+        "highlights": [
+          "Migrated legacy VM cluster to Azure with zero downtime",
+          "Led 4-person team to deliver recommendation engine on time"
+        ]
+      }
+    ],
+    "skills": {
+      "Programming": [
+        "Python",
+        "JavaScript",
+        "Java"
+      ],
+      "Web": [
+        "Django",
+        "Express",
+        "FastAPI",
+        "React"
+      ],
+      "Data": [
+        "scikit-learn",
+        "NumPy",
+        "PyTorch",
+        "SQL"
+      ],
+      "Cloud/DevOps": [
+        "GCP",
+        "Docker",
+        "AWS",
+        "Kubernetes",
+        "Terraform"
+      ]
+    }
+  },
+  "summary": "Avery Davis is a seasoned Data Engineer with a strong educational background in Electrical Engineering and Computer Science. With over 5 years of experience in the field, Avery has developed a diverse set of technical skills, including proficiency in programming languages such as Python, JavaScript, and Java, as well as expertise in web development frameworks like Django, Express, and FastAPI. Avery's data skills include experience with scikit-learn, NumPy, PyTorch, and SQL.\n\nThroughout his career, Avery has demonstrated a strong ability to drive results, with notable achievements including reducing CPU usage by 40% via asynchronous processing, migrating legacy VM clusters to Azure with zero downtime, and reducing costs by 15% via caching. As a leader, Avery has successfully led teams to deliver projects on time, including a 4-person team to deliver an ETL replatform and a recommendation engine.\n\nAvery's experience spans multiple companies, including Nextlytics, BluePeak, and CodeSpring, with locations in Miami, Boston, and Chicago. His skills in cloud and DevOps include proficiency in GCP, Docker, AWS, Kubernetes, and Terraform. Overall, Avery is a highly skilled and accomplished Data Engineer with a strong track record of delivering results and leading teams to success.",
+  "llm_provider": "groq",
+  "llm_model": "llama3-8b-8192"
+}

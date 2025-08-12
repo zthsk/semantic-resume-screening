@@ -1,0 +1,5 @@
+Avery Davis is a highly skilled Full Stack Developer with a Master of Engineering degree in Software Engineering from City College of in 2021. With over 6 years of experience in the industry, Avery has developed a strong technical skillset across multiple programming languages, including C++, Go, Java, Python, and TypeScript. He has also demonstrated expertise in web development with Flask, React, and Node.js, as well as data analysis with PyTorch, scikit-learn, and SQL.
+
+Throughout his career, Avery has achieved significant accomplishments, including migrating legacy systems to cloud platforms with zero downtime, reducing CPU usage by 30% through schema optimization, and improving latency by 30% through schema optimization. He has also designed and implemented various pipelines, gateways, and APIs, showcasing his ability to work on complex projects.
+
+Avery's experience spans multiple companies, including CloudLoom, InnoSoft, and InnoSoft, where he held roles as Full Stack Developer, Backend Engineer, and Machine Learning Engineer. His accomplishments and skills make him a strong candidate for a variety of technical roles.
