@@ -1,6 +1,6 @@
 # TalentAI MVP: AI-Powered Talent Matching Platform
 
-> **🚀 This is a standalone repository that's part of the [Hack Nation 2025 TalentAI Challenge](https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/clean-repo-final)**
+> **🚀 This is a standalone repository that's part of the [Hack Nation 2025 TalentAI Challenge](https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/main)**
 
 ## 🎯 Core Value Proposition
 Revolutionary AI talent marketplace that matches candidates through **debugging challenges** rather than traditional interviews, with **bias-free evaluation** and **instant job-candidate recommendations**.
@@ -14,7 +14,7 @@ This repository contains the **core AI modules** extracted from the complete Tal
 - **🔍 Skill Extraction & Analysis** - Automated skill identification and assessment
 
 For the **complete full-stack application** including frontend, backend, and full platform features, visit:
-**[https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/clean-repo-final](https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/clean-repo-final)**
+**[https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/main](https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/main)**
 
 ## 🚀 Standalone Modules
 
@@ -181,7 +181,7 @@ This standalone repository is perfect for:
 
 This project was built during the **Hack Nation 2025 TalentAI Challenge** - a hackathon focused on revolutionizing the hiring process through AI-powered talent matching.
 
-**🏆 Complete Application Repository**: [https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/clean-repo-final](https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/clean-repo-final)
+**🏆 Complete Application Repository**: [https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/main](https://github.com/poshan0126/hacknation-2025-talentai-challenge-10/tree/main)
 
 The complete application includes:
 - Full-stack frontend applications (React + TypeScript)
